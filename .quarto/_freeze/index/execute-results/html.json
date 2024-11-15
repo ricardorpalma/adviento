@@ -1,0 +1,14 @@
+{
+  "hash": "447891b0df7ba1f9cd495f1d81d7033c",
+  "result": {
+    "markdown": "# Corona de Adviento {.unnumbered}\n\n## Parroquia Santa Ana \n\nGuaymallén Mendoza Argentina\n\n### Preparación\nSe coloca la Palabra de Dios en un lugar destacado, se enciende la vela correspondiente\n\n**Guía:** Esta Luz simboliza nuestra espera y nuestro deseo de estar atentos a la venida del Señor.\n\n### Oración para el momento de encender la vela:\n\n**Todos:** Jesús, Tú nos enseñaste que allí donde dos o más estamos reunidos en Tu nombre, Tú estás\n\ncon nosotros. Nosotros estamos reunidos en Tu Nombre y esperamos Tu venida.\n\n\n\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

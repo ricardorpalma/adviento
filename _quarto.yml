@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Corona de Adviento"
+  author: "Liturgia Parroquia Santa Ana"
+  date: "11/15/2024"
+  chapters:
+    - index.qmd
+    - Semana1.qmd
+    - Semana2.qmd
+    - Semana3.qmd
+    - Semana4.qmd
+    - summary.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
